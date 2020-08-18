@@ -1,5 +1,6 @@
-# SIH20
-smart india hackathon 2020 task ISRO 
+# Image generation from prevous image by warping the flow calculated from the images using optical flow algorithm HS and LK
+This method can be used for image compression where we can optimize the memory issue occurs in storing a large number of images
+here I am using the satellite image to calculate the flow
 
 
 
