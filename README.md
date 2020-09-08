@@ -1,6 +1,6 @@
 # Image generation from prevous image by warping the flow calculated from the images using optical flow algorithm HS and LK
 
-### Completed cource Introduction to Computer Vision by  Dr. Mubarak Shah <a href="https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm">Cource Link</a> and built this project.
+### Completed course Introduction to Computer Vision by  Dr. Mubarak Shah <a href="https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm">Course Link</a> and built this project.
 This method can be used for image compression where we can optimize the memory issue occurs in storing a large number of images
 here I am using the satellite image to calculate the flow  main code is in   <a href="https://github.com/amritanjali123/Image_generation_form_prevous_image_optical_flow/blob/master/wrap.ipynb">warp.ipynb</a>
 
