@@ -1,4 +1,4 @@
-# Image generation from prevous image by warping the flow calculated from the images using optical flow algorithm HS and LK
+## Image generation from prevous image by warping the flow calculated from the images using optical flow algorithm HS and LK
 
 ### Completed course Introduction to Computer Vision by  Dr. Mubarak Shah <a href="https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm">Course Link</a> and built this project.
 This method can be used for image compression where we can optimize the memory issue occurs in storing a large number of images
